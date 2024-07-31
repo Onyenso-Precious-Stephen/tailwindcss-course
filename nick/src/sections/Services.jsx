@@ -1,7 +1,6 @@
-import React from 'react'
 const Services = () => {
   return (
-    <div>S</div>
+    <div>Services </div>
   )
 }
 
